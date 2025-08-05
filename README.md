@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# Copper Tooltips
 
-## Setup
+A very simple mod that changes the names of copper blocks to the basic name of the block
+and adds the oxidation level and whether they're waxed to the tooltip.
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up-a-development-environment) that relates to the IDE that you are using.
+![](preview.png)
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the MIT license. See [LICENSE](LICENSE) for more info.

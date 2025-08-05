@@ -1,9 +1,10 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "me.violine.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+      "ItemMixin",
+      "ItemStackMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
