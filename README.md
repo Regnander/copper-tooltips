@@ -17,7 +17,7 @@ and adds the oxidation level and whether they're waxed to the tooltip.
 | `fra_FR`      | French (France)          | Français (France)        | [laval](https://modrinth.com/user/laval)                                                                 | `fra_CA`                               |
 | `ita_IT`      | Italian (Italy)          | Italiano (Italia)        | [laval](https://modrinth.com/user/laval)<br>[LorenzoF06](https://crowdin.com/profile/lorenzof06)         |                                        |
 | `nld_NL`      | Dutch (Netherlands)      | Nederland (Nederlands)   | [DarkShadow_TNT](https://crowdin.com/profile/darkshadow_tnt)<br>[laval](https://modrinth.com/user/laval) | `nld_BE`                               |
-| `por_BR`      | Italian (Italy)          | Italiano (Italia)        | [laval](https://modrinth.com/user/laval)<br>[Dieguinho](https://crowdin.com/profile/dieguinho)           | `por_PT`                               |
+| `por_BR`      | Portuguese (Brazil)      | Português (Brasil)       | [laval](https://modrinth.com/user/laval)<br>[Dieguinho](https://crowdin.com/profile/dieguinho)           | `por_PT`                               |
 | `zlm_MY`      | Malay (Malaysia)         | Bahasa Melayu (Malaysia) | [NuruddinPlays](https://github.com/NuruddinPlays)                                                        |                                        |
 | `zlm-Arab_MY` | Malay (Jawi)             | بهاس ملايو (مليسيا)      | [NuruddinPlays](https://github.com/NuruddinPlays)                                                        |                                        |
 
